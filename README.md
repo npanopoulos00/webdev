@@ -23,5 +23,5 @@ To get started with the code, simply clone this repository and explore the diffe
 - **database_connections**: Includes code relevant to the database schema (component 2)
 
 ```sh
-git clone https://github.com/npanopoulos00/webdevw7project.git
+git clone https://github.com/npanopoulos00/webdev.git
 
